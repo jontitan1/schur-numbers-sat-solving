@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.o
+*.out
+build/
+*.cnf
+*.sol
